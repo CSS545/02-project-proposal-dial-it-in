@@ -37,7 +37,7 @@ Hint: [Markup Guide](https://docs.github.com/en/get-started/writing-on-github/ge
 
 ### UI/UX Design
 * Home menu with two buttons to create new profile or load saved profile.  
-On the 'create' page: Large easy to press buttons that allow user input on press. Timer button, add photo option, dose/yeild calculator, save button. It would also be nive to have a rating system/flavor profile (maybe P1 or P2).  The page for save profiles will be a list with the photo on the left and a peek at the most important stats in line on the row. Click to enter into a details page.*
+On the 'create' page: Large easy to press buttons that allow user input on press. Timer button, add photo option, dose/yeild calculator, save button. It would also be nive to have a rating system/flavor profile (maybe P1 or P2).  The page for save profiles will be a list with the photo on the left and a peek at the most important stats in line on the row. Click to enter into a details page. (see included diagram) *
 
 ### Technical Architecture
 *Internal storage: Ideally I'd like a non-relational database. I'll try to use firebase, but if it is cost prohibative I'll use Core Data even though it is a suboptimal solution for my use case.
