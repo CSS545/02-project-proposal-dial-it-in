@@ -62,3 +62,22 @@ Roast profiles will be saved as JSON. I don't plan to implement any features whe
  How to help users dial in effectively - ie informitive user inputs for taste.
 *
 
+## Mockup & UXflowchart
+https://lucid.app/lucidchart/46492874-adab-4e33-91a9-84e6c29cf3b0/edit?viewport_loc=-554%2C-516%2C4096%2C1980%2C0_0&invitationId=inv_58ec09ab-8adc-4293-86ac-94f150b00998
+(screenshots incleded on the branch too)
+
+## Happy Path
+1) Enter in settings for current brew attempt
+2) If you liked the brew, save the settings
+3) When you are ready to make coffee look through your saved brews
+4) Find the saved settings for you current brand/roast etc
+
+## Success criteria focus
+The success criteria focused on users that access their saved brews. 
+To facilitate this I designed my interface to show users that value fulfillment from the
+homepage and list enough saved vaules to quickly see what you have with the option to click 
+for more detail once you find what you are looking for.
+
+## Value
+The main value my app provides is the ability to quickly remake cups of coffee that you liked
+after carefully dailing in your shot to your liking
